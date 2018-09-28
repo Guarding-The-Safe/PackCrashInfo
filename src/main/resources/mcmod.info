@@ -1,0 +1,16 @@
+[
+{
+  "modid": "packcrashinfo",
+  "name": "PackCrashInfo",
+  "description": "Adds a modpack name to the crashlog.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BloodWorkXGaming"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
