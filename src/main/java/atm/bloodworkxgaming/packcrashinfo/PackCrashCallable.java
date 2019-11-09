@@ -30,7 +30,7 @@ public class PackCrashCallable implements ICrashCallable {
 
             if (!f.exists()) {
                 f = new File("minecraftinstance.json");
-                PackCrashInfo.LOGGER.info("No manfiest present, attempting to load the minecraftinstance.json file.");
+                PackCrashInfo.LOGGER.info("No manifest present, attempting to load the minecraftinstance.json file.");
             }
 
             if (f.exists()) {
